@@ -11,3 +11,4 @@ for i = 0, 9 do
 	Iris.Button({"Button - " .. i})
 	Iris.NextColumn()
 end
+Iris.End()
